@@ -1,0 +1,36 @@
+.an-image{
+    width: 80%;
+    position : relative;
+    left : 84px;
+}
+li{
+    list-style: none;
+}
+.an-section-1{
+    max-width: 286PX;
+}
+.an-title{
+    text-transform: uppercase;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+h1{
+    font-size: 32px;
+    color: lightseagreen;
+}
+.an-section-2{
+    margin-top: 149px;
+    max-width: 639px;
+}
+*{
+    font-family: monospace, monospace;
+}
+.an-bg{
+    background-color: lightseagreen;
+}
+i{
+    color:#5084a4;
+}
+.an-color-icon{
+    color: oldlace;
+}
